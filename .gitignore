@@ -1,0 +1,13 @@
+# Ignore build and output directories
+/out/
+/data/
+
+# Ignore database, JAR, and log files
+*.db
+*.jar
+*.log
+
+# Ignore temporary files
+*.tmp
+*.class
+*.bak
